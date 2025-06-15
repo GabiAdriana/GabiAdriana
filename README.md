@@ -46,10 +46,3 @@ Se você também curte energético, bugs e boas ideias, acho que a gente vai se 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GabiAdriana/GabiAdriana/output/snake.svg" alt="Snake animation" />
-
-###
