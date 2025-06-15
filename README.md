@@ -1,4 +1,4 @@
-<h2 align="center">Olá 👋! Meu nome é Gabriela Adriana</h2>
+<h2 align="center">Olá 👋! Meu nome é Gabriela Adriana.</h2>
 
 Atualmente cursando Engenharia de Computação na PUC Minas 💻⚙️
 
