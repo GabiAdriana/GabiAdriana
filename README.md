@@ -2,11 +2,9 @@
 
 Atualmente cursando Engenharia de Computação na PUC Minas 💻⚙️
 
-Gosto de pensar que a tecnologia é uma mistura de criatividade e lógica — e é exatamente isso que me fez escolher essa área. Curto desafios que envolvem pensar fora da caixa, aprender coisas novas e, claro, escrever códigos que realmente fazem sentido (ou pelo menos tentam 😅).
+Gosto de pensar que a tecnologia é uma mistura de criatividade e lógica — e é exatamente isso que me fez escolher essa área. Curto desafios que envolvem pensar fora da caixa e aprender coisas novas.
 
 Por aqui você vai encontrar meus projetos da faculdade, algumas ideias malucas que resolvi testar, e outros que nasceram só porque eu pensei “e se eu tentasse fazer isso?”. Estou sempre fuçando o que dá pra melhorar, automatizar ou simplesmente entender como funciona.
-
-Se você também curte energético, bugs e boas ideias, acho que a gente vai se dar bem ☕🐞✨
 
 ###
 
@@ -45,4 +43,5 @@ Se você também curte energético, bugs e boas ideias, acho que a gente vai se 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
+
 
