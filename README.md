@@ -2,9 +2,9 @@
 
 Atualmente cursando Engenharia de Computação na PUC Minas 💻⚙️
 
-Gosto de pensar que a tecnologia é uma mistura de criatividade e lógica — e é exatamente isso que me fez escolher essa área. Curto desafios que envolvem pensar fora da caixa e aprender coisas novas.
+Gosto de pensar que a tecnologia é uma mistura de criatividade e lógica, e é exatamente isso que me fez escolher essa área. Gosto desafios que envolvem pensar fora da caixa e aprender coisas novas.
 
-Por aqui você vai encontrar meus projetos da faculdade, algumas ideias malucas que resolvi testar, e outros que nasceram só porque eu pensei “e se eu tentasse fazer isso?”. Estou sempre fuçando o que dá pra melhorar, automatizar ou simplesmente entender como funciona.
+Por aqui você vai encontrar meus projetos da faculdade, algumas ideias malucas que resolvi testar, etc. Estou sempre fuçando o que dá pra melhorar, automatizar ou simplesmente entender como funciona.
 
 ###
 
